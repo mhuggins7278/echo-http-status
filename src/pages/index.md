@@ -4,5 +4,14 @@ title: Echo Http Status Codes
 --- 
 
 
-# I Just Want to See something
+# Echo Http Status Codes 
+
+
+## Information Responses
+
+
+| Status Code | Description | Supported |
+| :--- | :----------- | -- |
+| 100 | Title | x |
+| Paragraph | Text | x |
 

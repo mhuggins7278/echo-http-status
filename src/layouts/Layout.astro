@@ -34,15 +34,20 @@ const { title } = Astro.props;
 		font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
 			Bitstream Vera Sans Mono, Courier New, monospace;
 	}
-  .main {
+  main {
     text-align: center;
+    align-items: center;
+  }
+  pre {
+    width: fit-content;
+    display: inline-block;
   }
   table {
     margin: 0 auto;
     text-align: center;
     border-collapse: collapse;
   }
-   table, th, td {
+   table, thead, tr,td {
     border: 1px solid;
   }
 

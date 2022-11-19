@@ -19,10 +19,10 @@ or a JSON Object
 ```
 as well as setting the statusCode for the response
 
-### Supported Status Codes
+## Supported Status Codes
 
 
-#### Information responses
+### Information responses
 
 | Status Code | Description | Supported |
 | :--- | :----------- | -- |
@@ -31,7 +31,7 @@ as well as setting the statusCode for the response
 | 103 | Early Hints |  |
 
 
-#### Success Responses
+### Success Responses
 
 | Status Code | Description | Supported |
 | :--- | :----------- | -- |
@@ -47,7 +47,7 @@ as well as setting the statusCode for the response
 | 226 | IM Used |x|
 
 
-#### Redirection messages
+### Redirection messages
 
 | Status Code | Description | Supported |
 | :--- | :----------- | -- |
@@ -62,7 +62,7 @@ as well as setting the statusCode for the response
 | 308 | Permanent Redirect |x|
 
 
-#### Client error responses
+### Client error responses
 
 | Status Code | Description | Supported |
 | :--- | :----------- | -- |

@@ -1,0 +1,8 @@
+[[edge_functions]]
+path = "/redirectPage/*"
+function = "redirectPage"
+
+[[edge_functions]]
+path = "/*"
+function = "statusCode"
+
